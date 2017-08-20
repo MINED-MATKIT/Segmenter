@@ -1,0 +1,1 @@
+mcc -o MATKIT_Segmenter -W WinMain:MATKIT_Segmenter -T link:exe -d 'C:\Users\ahmet\Google Drive\_Package\Segmenter\Segmenter\for_testing' -v 'C:\Users\ahmet\Google Drive\_Package\Segmenter\Segmenter.mlapp' -r 'C:\Users\ahmet\Google Drive\_Package\Segmenter\Segmenter_resources\icon.ico'
