@@ -13,7 +13,7 @@
     <param.email>ahmetcecen@gmail.com</param.email>
     <param.company>Georgia Institute of Technology</param.company>
     <param.summary>Collection of segmentation tools for materials datasets.</param.summary>
-    <param.description />
+    <param.description>A by product of continuing materials informatics research by MINED group at Georgia Tech.</param.description>
     <param.screenshot>${PROJECT_ROOT}\Ico.png</param.screenshot>
     <param.guid />
     <param.installpath.string>\Georgia Institute of Technology\MATKIT_Segmenter\</param.installpath.string>
@@ -44,7 +44,6 @@
     <param.help.text />
     <unset>
       <param.version />
-      <param.description />
       <param.guid />
       <param.installpath.string />
       <param.installpath.combo />
