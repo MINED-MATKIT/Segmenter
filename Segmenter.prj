@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="2469993843" file="C:\Users\ahmet\GitHub\Segmenter\Segmenter.prj" location="C:\Users\ahmet\GitHub\Segmenter" name="Segmenter" preferred-package-location="C:\Users\ahmet\Google Drive\_Package\Segmenter\Segmenter\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="4169551820" file="C:\Users\ahmet\GitHub\Segmenter\Segmenter.prj" location="C:\Users\ahmet\GitHub\Segmenter" name="Segmenter" preferred-package-location="C:\Users\ahmet\GitHub\Segmenter\Segmenter\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>MATKIT_Segmenter</param.appname>
     <param.icon>${PROJECT_ROOT}\Segmenter_resources\icon.ico</param.icon>
     <param.icons>
@@ -76,6 +76,7 @@
     <fileset.resources />
     <fileset.package>
       <file>${PROJECT_ROOT}\Examples</file>
+      <file>${PROJECT_ROOT}\LICENSE</file>
     </fileset.package>
     <fileset.depfun>
       <file>${PROJECT_ROOT}\Functions\BorderPadArray2Size.m</file>
